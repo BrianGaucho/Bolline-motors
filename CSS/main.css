@@ -186,8 +186,8 @@ ul li a:hover {
 
 .form {
   bottom: 200px;
-  width: 250px;
-  height: 350px;
+  width: 270px;
+  height: 375px;
   background: linear-gradient(
     to top,
     rgba(0, 0, 0, 0.5) 50%,
@@ -237,7 +237,7 @@ ul li a:hover {
 }
 
 .btnn {
-  width: 240px;
+  width: 220px;
   height: 40px;
   background: #ff7200;
   border: none;
@@ -261,7 +261,7 @@ ul li a:hover {
 }
 
 .form .link {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size: 17px;
   padding-top: 20px;
   text-align: center;
